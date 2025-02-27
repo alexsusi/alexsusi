@@ -1,6 +1,6 @@
 # Hi and welcome to my little GitHub world! 👋
 
-I'm **alexsusi**, a process engineer and data scientist focused on optimizing chemical processes and harnessing data for impactful insights.
+I'm **Alex**, a process engineer and data scientist focused on optimizing chemical processes and harnessing data for impactful insights.
 
 - 🔭 Currently, I’m working on exciting data-driven process optimization projects.
 - 🌱 I’m diving deeper into machine learning techniques to enhance my skills.
